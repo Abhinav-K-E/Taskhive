@@ -1,5 +1,7 @@
 # [Taskhive](https://taskhive-v3.netlify.app/) 
 
+<img width="960" alt="todo (2)" src="https://user-images.githubusercontent.com/109943270/226185288-3a962c03-1330-4512-a85f-7485a2b65f94.png">
+
 # ToDo List Project 🚀
 This is a simple ToDo List project that can help you keep track of your daily tasks. It allows you to add, delete, and edit tasks.
 
